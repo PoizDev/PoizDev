@@ -113,6 +113,11 @@ Linux · Docker · Git · GitHub
   </a>
 </p>
 
-<p align="right">
-  <img src="./assets/snowflake.svg" width="32" alt="Snowflake">
+<br>
+
+---
+
+<p align="center">
+  <img src="./assets/snowflake.svg" width="24" alt="Snowflake"><br><br>
+  <sup>Thanks for stopping by! Let's build something great together.</sup>
 </p>
