@@ -82,14 +82,20 @@ Linux · Docker · Git · GitHub
 
 ## Community
 
-- Core Team @ GDG Bursa
-- Board Member @ ED-Der
+<p align="left">
+  <a href="https://gdg.community.dev/gdg-bursa/">
+    <img src="https://img.shields.io/badge/GDG_Bursa-Core_Team-FBA59D?style=for-the-badge&logo=google&logoColor=white" alt="GDG Bursa">
+  </a>
+  <a href="https://egitimledonusum.org">
+    <img src="https://img.shields.io/badge/ED--Der-Board_Member-215cfe?style=for-the-badge" alt="ED-Der">
+  </a>
+</p>
 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=poizdev&show_icons=true&hide_border=true&theme=tokyonight&v=1" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=poizdev&layout=compact&hide_border=true&theme=tokyonight&v=1" alt="Top Languages">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=poizdev&show_icons=true&hide_border=true&theme=tokyonight&v=2" alt="GitHub Stats">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=poizdev&layout=compact&hide_border=true&theme=tokyonight&v=2" alt="Top Languages">
 </p>
 
 <p align="center">
@@ -98,8 +104,14 @@ Linux · Docker · Git · GitHub
 
 ## Contact
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/poizdev)
-- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:musaefekobak@gmail.com)
+<p align="left">
+  <a href="https://linkedin.com/in/poizdev">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:musaefekobak@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
 <p align="right">
   <img src="./assets/snowflake.svg" width="32" alt="Snowflake">
